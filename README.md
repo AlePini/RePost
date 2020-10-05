@@ -6,7 +6,7 @@ Simple NodeJS Bot to repost your Reddit's upvotes to any Telegram Chat
 Follow these step
 
 Create a bot on Telegram with [BotFather](https://t.me/BotFather) and get the token  
-Create a [Reddit Application](https://ssl.reddit.com/prefs/apps/) and get the Client ID under the App name and the Secret
+Create a [Reddit Application](https://ssl.reddit.com/prefs/apps/) and get the Client ID under the App name and the Secret  
 Create a Database with MySQL
 
 ```bash
